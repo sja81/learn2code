@@ -1,3 +1,26 @@
 Pre nevidiacich Screen reader a preto radsej pouzime
 <em> - kurziva namiesto <i>
 <strong> - bold namiest <b>
+
+<blockquote>
+
+<dl>
+    <dt>Draci grc</dt>
+    <dd>Tradicny pokrm vikingov</dd> -> toto odsadi z lava.
+</dl>
+
+absolutna cesta https://www.google.com/
+relativna cesta bez https://domain.com/
+
+www.cupcakeipsum.com
+<a href="mailto:">Napis mi</a>
+<a href="tel:43304043043">
+
+Pri obrazkoch je lepsie zadat vysku a sirku aby prehliadac 
+nemusel chodit a zistovat.
+
+www.fancyapps.com
+xkcd.com
+hotlinking
+
+
