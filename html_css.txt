@@ -1,1 +1,3 @@
-<em> - kurziva ako <i>
+Pre nevidiacich Screen reader a preto radsej pouzime
+<em> - kurziva namiesto <i>
+<strong> - bold namiest <b>
