@@ -31,3 +31,14 @@ validator.w3.org
 <section>
     <h2>Skolenia</h2>
 </section>
+
+<link rel="stylesheet" href="">
+
+CSS
+
+text-decoration: none;
+
+cssfontstack.com
+
+-webkit-font-smoothing: antialiased;
+margin: 50px auto; <- dopocita automaticky lavy a pravy margin
