@@ -23,4 +23,11 @@ www.fancyapps.com
 xkcd.com
 hotlinking
 
+<ul>,<ol> nedavam do <div><p>
+tinypng.com
+imageoptim.com
+validator.w3.org
 
+<section>
+    <h2>Skolenia</h2>
+</section>
