@@ -42,3 +42,25 @@ cssfontstack.com
 
 -webkit-font-smoothing: antialiased;
 margin: 50px auto; <- dopocita automaticky lavy a pravy margin
+
+body, html {
+    /* css reset */
+    margin: 0;
+    padding: 0;
+}
+
+text-align plati len na inline elementy
+
+border-radius: 50%;
+
+<section>
+<aside>
+<header>
+<footer>
+<nav>
+<article>
+
+
+
+
+
