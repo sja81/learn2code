@@ -60,7 +60,28 @@ border-radius: 50%;
 <nav>
 <article>
 
+font-variant: small-caps;
+text-indent: x px; -> bekezdes
+text-decoration: underline,...etc.
+letter-spacing: 10px;
+word-spacing: 10px;
+text-shadow: 3px 2px 0px #000;  3px - zlava 2px zhora 0px alpha tiena
+text-shadow mozete zopakovat
 
+
+.post-content p:first-child {
+
+}
+
+<footer class="post-footer">
+    <h3></h3>
+</footer>
+
+.post-footer > h3 {     // vyberie len element priamy potomok elementu post-footer, ostatne h3 ostanu nedotknute
+
+}
+
+a - elementy nededia farby od rodica
 
 
 
